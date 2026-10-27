@@ -219,16 +219,9 @@ network-traffic-analysis-lab/
     └── commands.md
 ```
 
-Only add screenshots you have reviewed and sanitised. Do not upload raw captures from everyday browsing unless you have checked them carefully for sensitive data.
 
 ## Ethical and safety note
 
 This is a learning lab using a local simulated network and traffic observed on my own device. Capture only traffic you are authorised to inspect. Do not publish credentials, session cookies, private messages, device identifiers, or unredacted network details.
 
-## Next steps
 
-- Save the Packet Tracer `.pkt` file after verifying the configuration.
-- Add sanitised screenshots to `screenshots/`.
-- Verify the addressing table against the saved topology.
-- Add a short caption for each screenshot describing the observation and what it demonstrates.
-- Re-run the commands and record any differences in a future lab session.
